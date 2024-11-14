@@ -14,3 +14,4 @@
 [evodo-graphql](https://github.com/hwld/evodo-graphql)  
 [evodo-openapi](https://github.com/hwld/evodo-openapi)  
 [evodo-axum](https://github.com/hwld/evodo-axum)  
+[evodo-electron](https://github.com/hwld/evodo-electron)
